@@ -1,3 +1,3 @@
 # vizeeta
 ## project notes
-# datatbase in project folder
+# database in project folder
